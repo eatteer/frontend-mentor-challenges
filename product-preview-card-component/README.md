@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/eatteer/frontend-mentor-challenges/edit/main/product-preview-card-component)
+- Live Site URL: [Netlify](https://eatteer-product-preview-card.netlify.app/)
 
 ## My process
 
