@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-using-react-edfR2X-r_c)
+- Live Site URL: [Netlify](https://eatteer-interactive-rating-component.netlify.app/)
 
 ## My process
 
