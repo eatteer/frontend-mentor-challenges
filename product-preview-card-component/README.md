@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/eatteer/frontend-mentor-challenges/edit/main/product-preview-card-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-Xwa0teNIwu)
 - Live Site URL: [Netlify](https://eatteer-product-preview-card.netlify.app/)
 
 ## My process
